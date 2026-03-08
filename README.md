@@ -1,4 +1,4 @@
-# AppleCare Self-Service Diagnostics Assistant
+# Phone Self-Service Diagnostics Assistant
 
 AI-powered pre-triage diagnostics prototype that reduces Genius Bar MTTR by triangulating customer-reported symptoms with device system report data to identify root cause and generate a Diagnostics Passport.
 
